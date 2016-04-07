@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="activity_names">
+        <item>P002GoogleMaps</item>
+        <item>P003MapsMarkerOptions</item>
+        <item>P004MapsPolylineOptions</item>
+        <item>P005MapsPolygon</item>
+        <item>P006MapsCircle</item>
+    </string-array>
+</resources>
