@@ -7,5 +7,10 @@
         <item>P004MapsPolylineOptions</item>
         <item>P005MapsPolygon</item>
         <item>P006MapsCircle</item>
+        <item>P007MapsMapFragment</item>
+        <item>P008GoogleMapsIntents</item>
+        <item>P009MapsNewLatLngZoom</item>
+        <item>P010MapsUiSettings</item>
+
     </string-array>
 </resources>
